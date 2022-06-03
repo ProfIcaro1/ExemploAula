@@ -1,5 +1,6 @@
 import sqlite3
 
+#classe que cria o banco de dados
 class Banco():
     def __init__(self):
 
